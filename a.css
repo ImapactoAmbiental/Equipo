@@ -52,6 +52,15 @@ li {
     font-family: 'calibri';
 }
 
+.pene {
+    max-height: 15vh;
+    min-height: 15vh;
+}
+
+#o{
+    margin-left: 12vw;
+}
+
 .material-symbols-outlined {
     font-size: 25px;
     margin-right: 10px;
