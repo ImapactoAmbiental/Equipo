@@ -58,6 +58,8 @@ li {
 }
 
 #o{
+    max-height: 15vh;
+    min-height: 15vh;
     margin-left: 12vw;
 }
 
