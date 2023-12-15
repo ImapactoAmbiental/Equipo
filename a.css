@@ -6,7 +6,8 @@
     -webkit-tap-highlight-color: rgba(255, 255, 255, 0) !important;
     -webkit-focus-ring-color: rgba(255, 255, 255, 0) !important;
     outline: none !important;
-    -webkit-text-fill-color:#B5E853;
+    color:#B5E853;
+    font-size: 25px !important;
 }
 
 #main-container {
@@ -34,6 +35,10 @@
     transition: .3s;
     margin-bottom: 20px;
     padding-left: 20px;
+}
+
+li {
+    color: #ffffff !important;
 }
 
 .aM {
